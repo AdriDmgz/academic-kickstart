@@ -8,7 +8,6 @@ abstract: "Gamification is the use of game design elements and game mechanics in
 featured: false
 publication: "*Computers and Education*"
 tags: ["Computer game", "Engagement", "Game mechanic", "Games-based learning", "Gamification", "Motivation", "e-learning"]
-url_pdf: "http://dx.doi.org/10.1016/j.compedu.2012.12.020"
 doi: "10.1016/j.compedu.2012.12.020"
 ---
 

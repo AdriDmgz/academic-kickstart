@@ -8,7 +8,6 @@ abstract: "While social networking has already demonstrated its efficiency in e-
 featured: false
 publication: "*Computers and Education*"
 tags: ["E-learning", "Gamification", "Motivation", "Participation", "Playful design", "Social network"]
-url_pdf: "http://dx.doi.org/10.1016/j.compedu.2014.01.012"
 doi: "10.1016/j.compedu.2014.01.012"
 ---
 
