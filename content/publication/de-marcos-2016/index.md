@@ -1,4 +1,4 @@
----
+﻿---
 title: "Social network analysis of a gamified e-learning course: Small-world phenomenon and network metrics as predictors of academic performance"
 date: 2016-01-01
 publishDate: 2019-09-12T10:01:27.039566Z
