@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Adrián Domínguez Díaz
+name: Adrián Domínguez
 
 # Username (this should match the folder name)
 authors:
@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Profesor asociado / Profesor adjunto
+role: Profesor asociado
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad de Alcalá
   url: "http://www.uah.es"
-- name: U-Tad, Universidad Camilo José Cela
+- name: U-Tad, Centro Universitario de Tecnología y Arte Digital
   url: "http://www.u-tad.com"
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,6 +77,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Ingeniero informático y doctor por la Universidad de Alcalá. Ejerzo como profesor e investigador en el área de la gamificación y el uso de nuevas tecnologías aplicadas a la educación.
+Ingeniero informático y doctor por la Universidad de Alcalá. Profesor e investigador en el área de la gamificación y el uso de nuevas tecnologías aplicadas a la educación. Apasionado de los videojuegos. Experto en Unity 3D.
 
 
