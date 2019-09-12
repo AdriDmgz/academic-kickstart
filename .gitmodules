@@ -1,0 +1,4 @@
+[submodule "themes/academic"]
+	path = themes/academic
+	url = git://github.com/AdriDmgz/hugo-academic.git
+	branch = master
